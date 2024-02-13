@@ -1,6 +1,5 @@
 import pygame
 from pygame import mixer
-import pygame_widgets as pw
 import random
 
 pygame.init()
